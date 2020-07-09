@@ -1,0 +1,14 @@
+body {
+    background-color: whitesmoke
+}
+
+.node { 
+    background-color: black;
+}
+
+.linkedListButtons {
+    width: 100px;
+    height: 20px;
+    display: inline-block;
+    margin: 2px;
+}

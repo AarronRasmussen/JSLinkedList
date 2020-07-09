@@ -22,6 +22,7 @@ function generateButtons() {
         var btn = document.createElement('button');
         btn.innerText = element;
         btn.setAttribute('id', element)
+        btn.setAttribute('class','linkedListButtons')
         div.appendChild(btn);
     });
 }
